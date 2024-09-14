@@ -13,7 +13,7 @@
 > [Download Full Pdf](/Data/Artificial-Intelligence/All_cheat_sheet.pdf)
  
 Credits : [Stanford Cheatsheets: Machine Learning, AI, Probability Statistics, Deep Learning](https://stanford.edu/~shervine/teaching/) - Afshine Amidi and Shervine Amidi published on September 8, 2019
-
+Notes and videos - https://www.cse.iitd.ac.in/~parags/teaching/2021/col774/
 ---
 
 ## <a name="books"></a>Books
